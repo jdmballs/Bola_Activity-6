@@ -98,7 +98,7 @@ a.navbar-brand {
     height: 90vh;
     background:linear-gradient(180deg, rgba(255, 255, 255, 0) 30%,
              rgba(82, 91, 84,1) 80%), 
-             url(img/header-bg.jpg);
+             url(../img/header-bg.jpg);
     background-size: contain;
     font-family: 'Montserrat', sans-serif;
 }
@@ -232,7 +232,7 @@ img.card-img {
 /* Shop */
 
 .shop{
-   background-image: url(img/shop-now.jpg);
+   background-image: url(../img/shop-now.jpg);
     background-size: cover;
     height: 100vh;
 }
