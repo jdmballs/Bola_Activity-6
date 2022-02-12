@@ -105,7 +105,7 @@ a.navbar-brand {
     font-weight: 400;
 }
 .about .image{
-    background-image: url(img/about.jpg);
+    background-image: url(../img/about.jpg);
     background-size:cover;
     border-radius: 48% 52% 30% 70% / 53% 30% 70% 47%;
     width: 400px !important;
